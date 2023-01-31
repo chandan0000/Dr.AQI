@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "900222786933",
+    "project_id": "draqi-cced3",
+    "storage_bucket": "draqi-cced3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900222786933:android:e0adae13e1cfdbccce473c",
+        "android_client_info": {
+          "package_name": "com.example.dr_aqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900222786933-ijrmgc0g825oifgl2j0ugeu8863t4boe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dr_aqi",
+            "certificate_hash": "f22eff008de3c7cd62103b14a48734f07867dcd2"
+          }
+        },
+        {
+          "client_id": "900222786933-7qekf933vj1073k2tg7e5m0qk8eb6dk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxo8O_0pyF2PObCgGhngJx5VbnoL2a1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900222786933-7qekf933vj1073k2tg7e5m0qk8eb6dk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900222786933-9hitp8m792ciic5vrp8l3oqueaveorjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.drAqi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
